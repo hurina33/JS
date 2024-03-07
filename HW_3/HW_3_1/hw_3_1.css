@@ -1,0 +1,9 @@
+.stroka{
+    width: 60px;
+    height: 60px;
+    background-color: dodgerblue;
+}
+.product-image{
+    width: 100px;
+    height: 100px;
+}
