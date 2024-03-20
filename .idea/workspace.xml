@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d03d47b0-a473-4f09-a200-260e64162128" name="Changes" comment="hw 1-4">
-      <change afterPath="$PROJECT_DIR$/HW_5/hw_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_5/hw_5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_6/hw_6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_6/hw_6.js" afterDir="false" />
+    <list default="true" id="d03d47b0-a473-4f09-a200-260e64162128" name="Changes" comment="hw 4-6">
+      <change afterPath="$PROJECT_DIR$/HW_8/HW_8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_8/HW_8.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my/my_1.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my/my_1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my/my_1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_4/hw_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW_4/hw_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_4/hw_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW_4/hw_4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,6 +51,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "copyright",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708944678305</updated>
-      <workItem from="1708944679342" duration="133492000" />
+      <workItem from="1708944679342" duration="166568000" />
     </task>
     <task id="LOCAL-00001" summary="hw 1-4">
       <option name="closed" value="true" />
@@ -81,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709810689796</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hw 4-6">
+      <option name="closed" value="true" />
+      <created>1710521672793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710521672793</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw 1-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw 1-4" />
+    <MESSAGE value="hw 4-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw 4-6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
