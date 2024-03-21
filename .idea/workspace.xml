@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d03d47b0-a473-4f09-a200-260e64162128" name="Changes" comment="hw 4-6">
-      <change afterPath="$PROJECT_DIR$/HW_8/HW_8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW_8/HW_8.js" afterDir="false" />
+    <list default="true" id="d03d47b0-a473-4f09-a200-260e64162128" name="Changes" comment="hw 8">
+      <change afterPath="$PROJECT_DIR$/HW_9/hw_9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_9/hw_9.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my/my_1.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my/my_1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my/my_1.js" afterDir="false" />
@@ -21,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708944678305</updated>
-      <workItem from="1708944679342" duration="166568000" />
+      <workItem from="1708944679342" duration="177481000" />
     </task>
     <task id="LOCAL-00001" summary="hw 1-4">
       <option name="closed" value="true" />
@@ -86,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710521672793</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw 8">
+      <option name="closed" value="true" />
+      <created>1710926506942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710926506942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +114,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw 1-4" />
     <MESSAGE value="hw 4-6" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw 4-6" />
+    <MESSAGE value="hw 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
