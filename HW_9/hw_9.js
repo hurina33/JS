@@ -12,6 +12,9 @@ div.style.color='red';
 div.style.fontSize='20px';
 document.body.appendChild(div);
 
+let cloneDiv= div.cloneNode(true);
+document.body.appendChild(cloneDiv);
+
 
 // Зробити ul в середині якої будуть лежати елементи масиву (кожен в своєму li)
 
