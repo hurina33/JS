@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>users</title>
+    <style>
+        a{
+            font-size: 40px;
+        }
+    </style>
+</head>
+<body>
+<a href="hw_11_1.html">nasad</a>
+
+<script>
+
+let userId = new URL(location.href).searchParams.get('id');
+let baseUrl = 'http://jsonplaceholder.typicode.com/users/' + userId;
+
+fetch(baseUrl)
+    .then(res => res.json())
+    .then(user => {
+
+        let haup= document.createElement('ul');
+        document.body.appendChild(haup);
+
+        for (const userElement in user) {
+            if (userElement === 'address' || userElement === 'company') {
+                let li = document.createElement('li');
+                haup.appendChild(li);
+                li.innerText = `${userElement}:`;
+
+                for (const key in user[userElement]) {
+                    let liForAdr= document.createElement('ul');
+                    li.appendChild(liForAdr)
+
+                    if (key === 'geo') {
+                        let ulForGeo = document.createElement('ul');
+                        liForAdr.appendChild(ulForGeo);
+                        ulForGeo.innerText = `${key}:`;
+
+                        for (const keygeo in user[userElement][key]) {
+                            let liForGeo = document.createElement('li');
+                            liForGeo.innerText = `${keygeo}: ${user[userElement][key][keygeo]}`;
+                            ulForGeo.appendChild(liForGeo);
+                        }
+                    }
+                    else{
+                        liForAdr.innerText = `${key}: ${user[userElement][key]}`;
+                    }
+                }
+            }else{
+                let li = document.createElement('li');
+                haup.appendChild(li);
+                li.innerText = `${userElement}: ${user[userElement]}`;
+            }
+        }
+})
+
+</script>
+</body>
+</html>

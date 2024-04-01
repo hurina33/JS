@@ -4,12 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d03d47b0-a473-4f09-a200-260e64162128" name="Changes" comment="hw 9">
+    <list default="true" id="d03d47b0-a473-4f09-a200-260e64162128" name="Changes" comment="hw 9 dodala clone">
+      <change afterPath="$PROJECT_DIR$/HW_10/10.1/hw_10_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_10/10.1/hw_10_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_10/hw_10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_10/hw_10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_11/hw_11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_11/hw_11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_11/hw_11_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_11/hw_11_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_11/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/Component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/UlLi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/user-details.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my/my_1.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my/my_1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my/my_1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_9/hw_9.js" beforeDir="false" afterPath="$PROJECT_DIR$/HW_9/hw_9.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708944678305</updated>
-      <workItem from="1708944679342" duration="178248000" />
+      <workItem from="1708944679342" duration="297038000" />
     </task>
     <task id="LOCAL-00001" summary="hw 1-4">
       <option name="closed" value="true" />
@@ -101,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711015455469</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hw 9 dodala clone">
+      <option name="closed" value="true" />
+      <created>1711016494334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711016494334</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +145,8 @@
     <MESSAGE value="hw 4-6" />
     <MESSAGE value="hw 8" />
     <MESSAGE value="hw 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw 9" />
+    <MESSAGE value="hw 9 dodala clone" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw 9 dodala clone" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
